@@ -1,0 +1,3 @@
+﻿Location,Load (Qt) [kN/m2],Distance to Stem Face (D) [m],Length (L) [m]
+Back Fill (Constant),3,1,1
+Front Fill (Constant),3,0,3

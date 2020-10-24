@@ -1,0 +1,8 @@
+﻿Item,Value
+Internal Friction Angle (ɸ) [o],27
+Dry Unit Weight (γd) [kN/m3],18
+Saturated Unit Weight (γsat) [kN/m3],20
+Allowable Soil Stress (SBC) [kPa],400
+Base Friction Coefficient (BFC),0.55
+Adhesion (a) [kPa],10
+Cohesion (c) [kPa],10

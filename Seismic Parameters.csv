@@ -1,0 +1,8 @@
+﻿Item,Value,Remark
+Effective Ground Acceleration Coefficient (A0),0.1,Seismic Zone: Fourth Zone
+Importance Factor (I),1, 
+Structural Behavior Factor (R),1.5, 
+Vertical Equivalent Earthquake Coefficient (Cv),0.0267,0.2 (I + 1) A0
+Horizontal Equivalent Earthquake Coefficient (Ch),0.04,2 Ch / 3
+λK-,2.3533, 
+λK+,2.2312, 
